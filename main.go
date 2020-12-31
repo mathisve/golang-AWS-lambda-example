@@ -9,7 +9,7 @@ import (
   "github.com/aws/aws-sdk-go/service/s3"
 
   "net/http"
-	"io/ioutil"
+  "io/ioutil"
   "bytes"
 )
 
